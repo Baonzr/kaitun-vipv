@@ -132,4 +132,4 @@ spawn(function()
 end)
 
 -- Tải Kaitun chính (thay link nếu cần)
-loadstring(game:HttpGet('https://raw.githubusercontent.com/yourusername/yourrepo/main/kaitun.lua'))()
+loadstring(game:HttpGet('loadstring(game:HttpGet('https://raw.githubusercontent.com/Baonzr/kaitun-vipv/refs/heads/main/kai.lua'))()'))()
